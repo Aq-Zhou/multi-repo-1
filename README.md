@@ -18,7 +18,7 @@
 
 我的网站是 [我的官网](http://zzicky3.com)
 
-![一张图片]
+![一张图片](1.png)
 
 ```javascript
 console.long('hello')
